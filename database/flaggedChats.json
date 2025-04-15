@@ -1,0 +1,388 @@
+{
+  "flaggedChats": [
+    {
+      "chat_id": "1",
+      "user_ids": [
+        "2",
+        "5"
+      ],
+      "chat_history": [
+        {
+          "timestamp": "2025-07-10T14:03:12",
+          "sender": "Dominik",
+          "content": "Hey, I saw the ad for the laptop, is it still available or has it been sold?"
+        },
+        {
+          "timestamp": "2025-07-10T14:03:28",
+          "sender": "Marko",
+          "content": "Hi, it’s still available. Dell XPS 13, as described, in excellent condition. Price is 900 euros."
+        },
+        {
+          "timestamp": "2025-07-10T14:03:55",
+          "sender": "Dominik",
+          "content": "Ah, OK, all good. But could you let it go for 750? I mean, it’s pretty old, right?"
+        },
+        {
+          "timestamp": "2025-07-10T14:04:15",
+          "sender": "Marko",
+          "content": "I can’t lower it that much, the laptop has been used for less than a year. 850 is my lowest price."
+        },
+        {
+          "timestamp": "2025-07-10T14:04:41",
+          "sender": "Dominik",
+          "content": "Look, I’d take it, but 850 is really tight for me. I can pay 800 right now if that works. Deal?"
+        },
+        {
+          "timestamp": "2025-07-10T14:05:02",
+          "sender": "Marko",
+          "content": "Sure, 800 euros. I’ll send you my payment details. Will it be cash or a bank transfer?"
+        },
+        {
+          "timestamp": "2025-07-10T14:05:30",
+          "sender": "Dominik",
+          "content": "Yeah, yeah, all good. But can you wait 2-3 days? I’m waiting for my money to come through, then I’ll send it. Or just hold the laptop for me and I’ll pay when I can."
+        },
+        {
+          "timestamp": "2025-07-10T14:05:58",
+          "sender": "Marko",
+          "content": "I can reserve the laptop, but payment needs to be made before shipping."
+        },
+        {
+          "timestamp": "2025-07-10T14:06:21",
+          "sender": "Dominik",
+          "content": "I don’t see why that’s so important. How about I send you a deposit of 100 euros now and the rest as soon as I get the money? Are we good?"
+        }
+      ]
+    },
+    {
+      "chat_id": "2",
+      "user_ids": [
+        "4",
+        "3"
+      ],
+      "chat_history": [
+        {
+          "timestamp": "2024-12-15T11:45:22",
+          "sender": "Luka",
+          "content": "Hi, is the Rolex Submariner still available?"
+        },
+        {
+          "timestamp": "2024-12-15T11:45:48",
+          "sender": "Ivan",
+          "content": "Yes, it’s available. It’s original, with all papers and the box."
+        },
+        {
+          "timestamp": "2024-12-15T11:46:15",
+          "sender": "Luka",
+          "content": "I see you’re asking only 500 euros? Isn’t it much more expensive?"
+        },
+        {
+          "timestamp": "2024-12-15T11:46:40",
+          "sender": "Ivan",
+          "content": "Yes, but I need to sell it urgently because I’m moving abroad. It’s new, but I need the cash immediately."
+        },
+        {
+          "timestamp": "2024-12-15T11:47:03",
+          "sender": "Luka",
+          "content": "OK, how would you like to arrange payment?"
+        },
+        {
+          "timestamp": "2024-12-15T11:47:28",
+          "sender": "Ivan",
+          "content": "Send me a deposit of 100 euros now via Revolut, and the rest when you pick it up. If I don’t get the payment within an hour, I’ll sell it to someone else."
+        },
+        {
+          "timestamp": "2024-12-15T11:48:10",
+          "sender": "Luka",
+          "content": "OK, sounds good. Send me the details."
+        }
+      ]
+    },
+    {
+      "chat_id": "3",
+      "user_ids": [
+        "2",
+        "1"
+      ],
+      "chat_history": [
+        {
+          "timestamp": "2024-11-10T18:05:12",
+          "sender": "Dominik",
+          "content": "Hi, I saw the ad for the PS5. Is it still available?"
+        },
+        {
+          "timestamp": "2024-11-10T18:05:33",
+          "sender": "Lujo",
+          "content": "Hi! Yes, it’s still available. The price is 400 euros."
+        },
+        {
+          "timestamp": "2024-11-10T18:05:55",
+          "sender": "Dominik",
+          "content": "Great, it’s perfect for me. I really need it for my brother’s birthday coming up. Do you ship?"
+        },
+        {
+          "timestamp": "2024-11-10T18:06:12",
+          "sender": "Lujo",
+          "content": "Of course, I can ship it. Usually, I arrange payment upfront and then send the package."
+        },
+        {
+          "timestamp": "2024-11-10T18:06:38",
+          "sender": "Dominik",
+          "content": "I get that. But I have to ask—how safe is shipping with these services? I’ve heard people lose money."
+        },
+        {
+          "timestamp": "2024-11-10T18:07:01",
+          "sender": "Lujo",
+          "content": "It’s absolutely safe. I’ve never had any problems."
+        },
+        {
+          "timestamp": "2024-11-10T18:07:27",
+          "sender": "Dominik",
+          "content": "OK, if you say so. I have an option through DPD, where they send the payment directly to your account to make it easier. Does that sound good?"
+        },
+        {
+          "timestamp": "2024-11-10T18:07:45",
+          "sender": "Lujo",
+          "content": "Hmm, I haven’t used it, but sure. How does it work?"
+        },
+        {
+          "timestamp": "2024-11-10T18:08:10",
+          "sender": "Dominik",
+          "content": "Here’s how it goes: I place the order, and DPD sends you an SMS with a link. You just enter your card details to confirm the payment. It’s completely secure—I use it all the time for things like this."
+        },
+        {
+          "timestamp": "2024-11-10T18:08:33",
+          "sender": "Lujo",
+          "content": "Sounds good. Send me what I need."
+        },
+        {
+          "timestamp": "2024-11-10T18:09:01",
+          "sender": "Dominik",
+          "content": "They’ll send you an SMS as soon as I place the order. Just a tip—if they ask for your card PIN, only enter the last four digits. That’s just a security step DPD uses."
+        },
+        {
+          "timestamp": "2024-11-10T18:09:28",
+          "sender": "Lujo",
+          "content": "Alright, I’ll wait for the message."
+        },
+        {
+          "timestamp": "2024-11-10T18:10:12",
+          "sender": "Dominik",
+          "content": "Just so you know—I’ll confirm the payment after you enter the details. Make sure not to use any VPN, as DPD blocks it due to \"fraud detection.\""
+        },
+        {
+          "timestamp": "2024-11-10T18:10:45",
+          "sender": "Lujo",
+          "content": "Got it, I understand."
+        },
+        {
+          "timestamp": "2024-11-10T18:11:23",
+          "sender": "Dominik",
+          "content": "OK, the SMS with the link is on its way. If anything’s unclear, let me know. The payment will come through as soon as you enter the details."
+        }
+      ]
+    },
+    {
+      "chat_id": "4",
+      "user_ids": [
+        "5",
+        "3"
+      ],
+      "chat_history": [
+        {
+          "timestamp": "2025-12-18T16:12:45",
+          "sender": "Marko",
+          "content": "Hi, I saw your ad for the vintage silver necklace. Is it still available?"
+        },
+        {
+          "timestamp": "2025-12-18T16:13:10",
+          "sender": "Ivan",
+          "content": "Hi, yes, it’s still available. The price is 120 euros."
+        },
+        {
+          "timestamp": "2025-12-18T16:13:28",
+          "sender": "Marko",
+          "content": "Looks really beautiful. Did you wear it in the pictures in the ad? It looks great on you."
+        },
+        {
+          "timestamp": "2025-12-18T16:13:50",
+          "sender": "Ivan",
+          "content": "Thanks, but let’s keep the conversation focused on the necklace, please."
+        },
+        {
+          "timestamp": "2025-12-18T16:14:12",
+          "sender": "Marko",
+          "content": "Sorry, just had to say it. You look stunning, though. Anyway, can we arrange payment? I’d like to buy it as a gift."
+        },
+        {
+          "timestamp": "2025-12-18T16:14:40",
+          "sender": "Ivan",
+          "content": "Sure, I usually accept bank transfers or cash if it’s in person. How would you like to pay?"
+        },
+        {
+          "timestamp": "2025-12-18T16:15:05",
+          "sender": "Marko",
+          "content": "Bank transfer works for me, but I have a better option if you’re interested. It’s through a service called PaySecure. You just fill in your payment details on their link, and I’ll send the money through them."
+        },
+        {
+          "timestamp": "2025-12-18T16:15:32",
+          "sender": "Ivan",
+          "content": "I’m not familiar with that. Is it safe?"
+        },
+        {
+          "timestamp": "2025-12-18T16:16:01",
+          "sender": "Marko",
+          "content": "Totally safe. I use it all the time. You don’t even need to give me your bank details directly—just enter them into the form, and PaySecure handles the transfer. It’s really simple."
+        },
+        {
+          "timestamp": "2025-12-18T16:16:25",
+          "sender": "Ivan",
+          "content": "Alright, send me the link, and I’ll take a look."
+        },
+        {
+          "timestamp": "2025-12-18T16:16:52",
+          "sender": "Marko",
+          "content": "Great. Here it is: bit.ly/paysecure-transfer123. Once you’ve filled it in, let me know so I can confirm the payment."
+        },
+        {
+          "timestamp": "2025-12-18T16:17:15",
+          "sender": "Ivan",
+          "content": "Okay, I’ll check it out."
+        },
+        {
+          "timestamp": "2025-12-18T16:17:40",
+          "sender": "Marko",
+          "content": "One last thing—can I ask for a favor? Could you send me a picture of you wearing the necklace? I’d love to see how it looks on someone before gifting it."
+        },
+        {
+          "timestamp": "2025-12-18T16:18:05",
+          "sender": "Ivan",
+          "content": "That’s not appropriate. If you’re not serious about the purchase, I’ll move on."
+        },
+        {
+          "timestamp": "2025-12-18T16:18:30",
+          "sender": "Marko",
+          "content": "Relax, I am serious! It’s just for reference. I’ll even pay extra for the picture. How about another 50 euros?"
+        },
+        {
+          "timestamp": "2025-12-18T16:19:00",
+          "sender": "Ivan",
+          "content": "I’m not comfortable with that. Let’s stick to the sale, or I’m done."
+        },
+        {
+          "timestamp": "2025-12-18T16:19:25",
+          "sender": "Marko",
+          "content": "Fine, fine. Just fill out the payment link, and we’ll wrap this up."
+        }
+      ]
+    },
+    {
+      "chat_id": "5",
+      "user_ids": [
+        "1",
+        "4"
+      ],
+      "chat_history": [
+        {
+          "timestamp": "2026-01-25T14:12:05",
+          "sender": "Lujo",
+          "content": "Hi, is the BMW 3 Series still for sale?"
+        },
+        {
+          "timestamp": "2026-01-25T14:12:30",
+          "sender": "Luka",
+          "content": "Hi, yes, it’s still available. The price is 18,000 euros, as listed."
+        },
+        {
+          "timestamp": "2026-01-25T14:13:00",
+          "sender": "Lujo",
+          "content": "It looks great in the pictures. Any history of accidents or repairs I should know about?"
+        },
+        {
+          "timestamp": "2026-01-25T14:13:22",
+          "sender": "Luka",
+          "content": "None, it’s in excellent condition. Full service history is available too."
+        },
+        {
+          "timestamp": "2026-01-25T14:13:45",
+          "sender": "Lujo",
+          "content": "Awesome. I can transfer 10,000 euros now, and pay the rest in a month if that works for you?"
+        },
+        {
+          "timestamp": "2026-01-25T14:14:10",
+          "sender": "Luka",
+          "content": "Hmm, I usually prefer full payment upfront. Let me think about it."
+        },
+        {
+          "timestamp": "2026-01-25T14:14:40",
+          "sender": "Lujo",
+          "content": "How about this: I’ll send 10,000 euros now, and as a guarantee, I’ll also give you my watch as collateral until I pay the remaining 8,000 euros."
+        },
+        {
+          "timestamp": "2026-01-25T14:15:05",
+          "sender": "Luka",
+          "content": "A watch? What kind of watch are you talking about?"
+        },
+        {
+          "timestamp": "2026-01-25T14:15:30",
+          "sender": "Lujo",
+          "content": "A Rolex. It’s worth way more than 8,000, so it’s a safe bet for you. This way, I can drive the car home today."
+        },
+        {
+          "timestamp": "2026-01-25T14:16:00",
+          "sender": "Luka",
+          "content": "That’s tempting, but I’d need to see proof of the watch’s authenticity before I agree to anything."
+        },
+        {
+          "timestamp": "2026-01-25T14:16:25",
+          "sender": "Lujo",
+          "content": "Of course, I’ll send you the papers and pictures. Let’s not waste time—if we can finalize this today, I’ll even add 500 euros extra for your trust."
+        },
+        {
+          "timestamp": "2026-01-25T14:16:55",
+          "sender": "Luka",
+          "content": "Okay, send the details of the watch, and we’ll figure it out."
+        }
+      ]
+    },
+    {
+      "chat_id": "6",
+      "user_ids": [
+        "1",
+        "3"
+      ],
+      "chat_history": [
+        {
+          "timestamp": "2025-07-11T10:15:43",
+          "sender": "Ivan",
+          "content": "E jel još prodaješ onu ovcu?"
+        },
+        {
+          "timestamp": "2025-07-11T10:16:05",
+          "sender": "Lujo",
+          "content": "Da, još je dostupna. Stara je godinu dana, zdrava, cijena je 150 eura."
+        },
+        {
+          "timestamp": "2025-07-11T10:16:34",
+          "sender": "Ivan",
+          "content": "Super, baš mi treba. Možeš mi je poslati?"
+        },
+        {
+          "timestamp": "2025-07-11T10:16:52",
+          "sender": "Lujo",
+          "content": "Naravno, ali uplata ide unaprijed prije nego što je pošaljem."
+        },
+        {
+          "timestamp": "2025-07-11T10:17:15",
+          "sender": "Ivan",
+          "content": "E, znaš što, neće mi još doći novci. Ajde mi je pošalji odmah, pa ću ti poslati novce čim mi legnu."
+        },
+        {
+          "timestamp": "2025-07-11T10:17:42",
+          "sender": "Lujo",
+          "content": "Nažalost, to ne ide tako. Moram dobiti uplatu prije slanja, hvala na razumijevanju."
+        }
+      ]
+    }
+  ]
+}

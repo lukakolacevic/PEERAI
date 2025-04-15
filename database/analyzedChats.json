@@ -1,0 +1,180 @@
+{
+  "analyzedChats": [
+    {
+      "chat_id": 1,
+      "flaggedMessages": [
+        {
+          "sender": "Dominik",
+          "content": "I don’t see why that’s so important. How about I send you a deposit of 100 euros now and the rest as soon as I get the money? Are we good?",
+          "flag": [
+            "Too-Good-To-Be-True Deals"
+          ]
+        }
+      ],
+      "flaggedUsers": [
+        {
+          "sender": "Dominik",
+          "flag": [
+            "Too-Good-To-Be-True Deals"
+          ],
+          "riskScore": 2
+        }
+      ]
+    },
+    {
+      "chat_id": 2,
+      "flaggedMessages": [
+        {
+          "sender": "Ivan",
+          "content": "Yes, but I need to sell it urgently because I’m moving abroad. It’s new, but I need the cash immediately.",
+          "flag": [
+            "Too-Good-To-Be-True Deals"
+          ]
+        },
+        {
+          "sender": "Ivan",
+          "content": "Send me a deposit of 100 euros now via Revolut, and the rest when you pick it up. If I don’t get the payment within an hour, I’ll sell it to someone else.",
+          "flag": [
+            "Urgency and Pressure",
+            "Suspicious Payment Offers"
+          ]
+        }
+      ],
+      "flaggedUsers": [
+        {
+          "sender": "Ivan",
+          "flag": [
+            "Too-Good-To-Be-True Deals",
+            "Urgency and Pressure",
+            "Suspicious Payment Offers"
+          ],
+          "riskScore": 8
+        }
+      ]
+    },
+    {
+      "chat_id": 3,
+      "flaggedMessages": [
+        {
+          "sender": "Dominik",
+          "content": "Here’s how it goes: I place the order, and DPD sends you an SMS with a link. You just enter your card details to confirm the payment. It’s completely secure—I use it all the time for things like this.",
+          "flag": [
+            "Phishing",
+            "Suspicious Payment Offers"
+          ]
+        },
+        {
+          "sender": "Dominik",
+          "content": "They’ll send you an SMS as soon as I place the order. Just a tip—if they ask for your card PIN, only enter the last four digits. That’s just a security step DPD uses.",
+          "flag": [
+            "Phishing"
+          ]
+        },
+        {
+          "sender": "Dominik",
+          "content": "Just so you know—I’ll confirm the payment after you enter the details. Make sure not to use any VPN, as DPD blocks it due to \"fraud detection.\"",
+          "flag": [
+            "Suspicious Payment Offers"
+          ]
+        }
+      ],
+      "flaggedUsers": [
+        {
+          "sender": "Dominik",
+          "flag": [
+            "Phishing",
+            "Suspicious Payment Offers"
+          ],
+          "riskScore": 8
+        }
+      ]
+    },
+    {
+      "chat_id": 4,
+      "flaggedMessages": [
+        {
+          "sender": "Marko",
+          "content": "I have a better option if you’re interested. It’s through a service called PaySecure. You just fill in your payment details on their link, and I’ll send the money through them.",
+          "flag": [
+            "Suspicious Payment Offers"
+          ]
+        },
+        {
+          "sender": "Marko",
+          "content": "Totally safe. I use it all the time. You don’t even need to give me your bank details directly—just enter them into the form, and PaySecure handles the transfer. It’s really simple.",
+          "flag": [
+            "Suspicious Payment Offers"
+          ]
+        },
+        {
+          "sender": "Marko",
+          "content": "Great. Here it is: bit.ly/paysecure-transfer123. Once you’ve filled it in, let me know so I can confirm the payment.",
+          "flag": [
+            "Off-Platform Links or Requests"
+          ]
+        },
+        {
+          "sender": "Marko",
+          "content": "Could you send me a picture of you wearing the necklace? I’d love to see how it looks on someone before gifting it.",
+          "flag": [
+            "Harassment"
+          ]
+        },
+        {
+          "sender": "Marko",
+          "content": "Relax, I am serious! It’s just for reference. I’ll even pay extra for the picture. How about another 50 euros?",
+          "flag": [
+            "Harassment"
+          ]
+        },
+        {
+          "sender": "Marko",
+          "content": "Fine, fine. Just fill out the payment link, and we’ll wrap this up.",
+          "flag": [
+            "Suspicious Payment Offers"
+          ]
+        }
+      ],
+      "flaggedUsers": [
+        {
+          "sender": "Marko",
+          "flag": [
+            "Suspicious Payment Offers",
+            "Off-Platform Links or Requests",
+            "Harassment"
+          ],
+          "riskScore": 8
+        }
+      ]
+    },
+    {
+      "chat_id": 5,
+      "flaggedMessages": [
+        {
+          "sender": "Lujo",
+          "content": "How about this: I’ll send 10,000 euros now, and as a guarantee, I’ll also give you my watch as collateral until I pay the remaining 8,000 euros.",
+          "flag": [
+            "Too-Good-To-Be-True Deals"
+          ]
+        },
+        {
+          "sender": "Lujo",
+          "content": "A Rolex. It’s worth way more than 8,000, so it’s a safe bet for you. This way, I can drive the car home today.",
+          "flag": [
+            "Too-Good-To-Be-True Deals"
+          ]
+        }
+      ],
+      "flaggedUsers": [
+        {
+          "sender": "Lujo",
+          "flag": [
+            "Too-Good-To-Be-True Deals",
+            "Urgency and Pressure"
+          ],
+          "riskScore": 5
+        }
+      ]
+    }
+  ]
+}
