@@ -1,4 +1,4 @@
-# PEERAI — AI-Driven Peer Moderation Platform 🛡️🤖
+# PEERAI — AI-Driven Peer Moderation Platform
 
 PEERAI is a hackathon-built platform designed to enhance community safety by enabling peer-based moderation using AI-assisted tools. It empowers system admins to **review**, **flag**, and **investigate** inappropriate interactions or user behavior in digital selling communities like Njuškalo and Vinted.
 
@@ -6,17 +6,17 @@ Built during a fast-paced sprint, this app combines a sleek interface with essen
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 **User Overview**: Browse and search platform users via a clean, minimal interface.
-- 🧠 **AI Assistance** *(planned)*: Built with assistance of AI tools to auto-flag harmful behavior.
-- 👁️ **User Detail View**: Investigate user activity and history with one click.
-- 🏷️ **Flagging System**: Mark users for admin review or escalation.
-- 📱 **Responsive Design**: Mobile-friendly layout for moderators on the go.
+-  **User Overview**: Browse and search platform users via a clean, minimal interface.
+-  **AI Assistance** *(planned)*: Built with assistance of AI tools to auto-flag harmful behavior.
+-  **User Detail View**: Investigate user activity and history with one click.
+-  **Flagging System**: Mark users for admin review or escalation.
+- ** Responsive Design**: Mobile-friendly layout for moderators on the go.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home Page](./images/home-page.png)
@@ -29,7 +29,7 @@ Built during a fast-paced sprint, this app combines a sleek interface with essen
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Next.js** – Framework for fast, production-ready React apps.
 - **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
@@ -38,5 +38,4 @@ Built during a fast-paced sprint, this app combines a sleek interface with essen
 
 ---
 
-## Still in progress...
 
